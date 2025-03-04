@@ -1,0 +1,75 @@
+.navbar h1 {
+  text-align: center;
+}
+
+@keyframes colorChange {
+  0% { color: goldenrod; }
+  25% { color: blue; }
+  50% { color: green; }
+  75% { color: yellow; }
+  100% { color: red; }
+}
+
+.navbar h1:hover {
+  animation: colorChange 2s infinite;
+}
+
+
+/* footer media */
+@media only screen and (min-width: 900px) {
+  .priority {
+      padding-top: 50px;
+      font-size: 18px;
+  }
+
+  .nax li {
+      padding: 10px; 
+      font-size: 40px;
+  }
+
+  .panthom {
+      width: 60%;
+  }
+}
+
+
+
+/* footer */
+footer{ 
+  height: auto;
+  width: auto;
+  background: rebeccapurple; 
+  padding-bottom: 20px;
+}
+.priority{
+text-align: center;
+padding-top: 100px;
+font-size: 15px;
+}
+
+.logox{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.ppp{
+  color: black;
+}
+.nax{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.nax li {
+  list-style: none;
+  padding: 20px;
+  font-size: 30px;
+
+}
+.panthom{
+  width: 80%;
+}
+
+
