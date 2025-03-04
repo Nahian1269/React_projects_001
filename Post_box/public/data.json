@@ -1,0 +1,122 @@
+[
+  {
+    "id_no": 1,
+    "Blog_Title": "The Art of Storytelling: Crafting Engaging Narratives",
+    "Author_Name": "MARADONA",
+    "Publish_Date": "2024-02-01",
+    "Reading_Time": 6,
+    "Blog_Cover": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Author_Image": "https://static.vecteezy.com/system/resources/thumbnails/007/209/020/small_2x/close-up-shot-of-happy-dark-skinned-afro-american-woman-laughs-positively-being-in-good-mood-dressed-in-black-casual-clothes-isolated-on-grey-background-human-emotions-and-feeligs-concept-photo.jpg",
+    "Blog_Content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..",
+    "Blog_Content Image": "https://example.com/content1.jpg",
+    "Hash_tags": ["#Storytelling", "#CreativeWriting", "#Narrative"]
+  },
+  {
+    "id_no": 2,
+    "Blog_Title": "Mastering Productivity: Tips for a More Efficient Day",
+    "Author_Name": "Author 2",
+    "Publish_Date": "2024-02-02",
+    "Reading_Time": 7,
+    "Blog_Cover": "https://images.unsplash.com/photo-1725886297109-360eb6f9d768?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Author_Image": "https://static.vecteezy.com/system/resources/thumbnails/007/209/020/small_2x/close-up-shot-of-happy-dark-skinned-afro-american-woman-laughs-positively-being-in-good-mood-dressed-in-black-casual-clothes-isolated-on-grey-background-human-emotions-and-feeligs-concept-photo.jpg",
+    "Blog_Content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "Blog_Content Image": "https://example.com/content2.jpg",
+    "Hash_tags": ["#Productivity", "#TimeManagement", "#Work"]
+  },
+  {
+    "id_no": 3,
+    "Blog_Title": "The Future of Technology: Innovations Shaping Tomorrow",
+    "Author_Name": "Author 3",
+    "Publish_Date": "2024-02-03",
+    "Reading_Time": 8,
+    "Blog_Cover": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Author_Image": "https://static.vecteezy.com/system/resources/thumbnails/007/209/020/small_2x/close-up-shot-of-happy-dark-skinned-afro-american-woman-laughs-positively-being-in-good-mood-dressed-in-black-casual-clothes-isolated-on-grey-background-human-emotions-and-feeligs-concept-photo.jpg",
+    "Blog_Content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..",
+    "Blog_Content Image": "https://example.com/content3.jpg",
+    "Hash_tags": ["#Technology", "#FutureTech", "#Innovation"]
+  },
+  {
+    "id_no": 4,
+    "Blog_Title": "The Power of Mindfulness: Living",
+    "Author_Name": "Author 4",
+    "Publish_Date": "2024-02-04",
+    "Reading_Time": 9,
+    "Blog_Cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Author_Image": "https://static.vecteezy.com/system/resources/thumbnails/007/209/020/small_2x/close-up-shot-of-happy-dark-skinned-afro-american-woman-laughs-positively-being-in-good-mood-dressed-in-black-casual-clothes-isolated-on-grey-background-human-emotions-and-feeligs-concept-photo.jpg",
+    "Blog_Content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..",
+    "Blog_Content Image": "https://example.com/content4.jpg",
+    "Hash_tags": ["#Mindfulness", "#SelfCare", "#MentalHealth"]
+  },
+  {
+    "id_no": 5,
+    "Blog_Title": "Exploring the World: Top Travel Destinations for 2025",
+    "Author_Name": "Author 5",
+    "Publish_Date": "2024-02-05",
+    "Reading_Time": 10,
+    "Blog_Cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Author_Image": "https://randomuser.me/api/portraits/men/1.jpg",
+    "Blog_Content": "Discover the most breathtaking travel destinations to add to your bucket list in 2025. From tropical paradises to cultural hotspots, explore where your next adventure could take you.",
+    "Blog_Content_Image": "https://example.com/content5.jpg",
+    "Hash_tags": ["#Travel", "#Destinations", "#Adventure"]
+  },
+  {
+    "id_no": 6,
+    "Blog_Title": "Culinary Delights: Gourmet Recipes to Try at Home",
+    "Author_Name": "Author 6",
+    "Publish_Date": "2024-02-06",
+    "Reading_Time": 5,
+    "Blog_Cover": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Author_Image": "https://randomuser.me/api/portraits/women/2.jpg",
+    "Blog_Content": "Elevate your home cooking with these gourmet recipes. Impress your guests and family with dishes that are both delicious and visually stunning.",
+    "Blog_Content_Image": "https://example.com/content6.jpg",
+    "Hash_tags": ["#Culinary", "#Recipes", "#Gourmet"]
+  },
+  {
+    "id_no": 7,
+    "Blog_Title": "Fitness Trends: What's New in 2025",
+    "Author_Name": "Author 7",
+    "Publish_Date": "2024-02-07",
+    "Reading_Time": 6,
+    "Blog_Cover": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Author_Image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "Blog_Content": "Stay ahead of the curve with the latest fitness trends of 2025. From new workout routines to innovative fitness technology, discover what's shaping the world of fitness.",
+    "Blog_Content_Image": "https://example.com/content7.jpg",
+    "Hash_tags": ["#Fitness", "#Trends", "#Health"]
+  },
+  {
+    "id_no": 8,
+    "Blog_Title": "Financial Planning: Securing Your Future",
+    "Author_Name": "Author 8",
+    "Publish_Date": "2024-02-08",
+    "Reading_Time": 7,
+    "Blog_Cover": "https://images.unsplash.com/photo-1740619061019-38581c1c293a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Author_Image": "https://randomuser.me/api/portraits/women/4.jpg",
+    "Blog_Content": "Learn the essentials of financial planning to ensure a secure and prosperous future. This guide covers investment strategies, savings plans, and more.",
+    "Blog_Content_Image": "https://example.com/content8.jpg",
+    "Hash_tags": ["#Finance", "#Planning", "#Investment"]
+  },
+  {
+    "id_no": 9,
+    "Blog_Title": "Sustainable Living: Eco-Friendly Practices for Everyday Life",
+    "Author_Name": "Author 9",
+    "Publish_Date": "2024-02-09",
+    "Reading_Time": 8,
+    "Blog_Cover": "https://images.unsplash.com/photo-1740382281576-95db2cf42d72?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Author_Image": "https://randomuser.me/api/portraits/men/5.jpg",
+    "Blog_Content": "Adopt sustainable living practices with these eco-friendly tips. From reducing waste to conserving energy, learn how to make a positive impact on the environment.",
+    "Blog_Content_Image": "https://example.com/content9.jpg",
+    "Hash_tags": ["#Sustainability", "#EcoFriendly", "#GreenLiving"]
+  },
+  {
+    "id_no": 10,
+    "Blog_Title": "Digital Marketing Strategies for Small Businesses",
+    "Author_Name": "Author 10",
+    "Publish_Date": "2024-02-10",
+    "Reading_Time": 9,
+    "Blog_Cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "Author_Image": "https://randomuser.me/api/portraits/women/6.jpg",
+    "Blog_Content": "Explore effective digital marketing strategies tailored for small businesses. Enhance your online presence and reach a broader audience with these actionable tips.",
+    "Blog_Content_Image": "https://example.com/content10.jpg",
+    "Hash_tags": ["#DigitalMarketing", "#SmallBusiness", "#OnlineStrategy"]
+  }
+]
